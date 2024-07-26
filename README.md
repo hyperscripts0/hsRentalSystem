@@ -1,1 +1,36 @@
-# hsRentalSystem
+# Advanced Rental System for QBCore
+
+## Overview
+
+Welcome to the Advanced Rental System for QBCore, a comprehensive and user-friendly vehicle rental script designed to enhance your FiveM server. This script offers a seamless rental service fully integrated with the QBCore framework, providing a realistic and immersive experience for your players.
+
+Buy From Here - [Buy Now](https://hyperscripts.tebex.io/package/6379120)
+
+## Key Features
+
+- Intuitive UI using `ox_lib`, supporting both `qb-target` and `ox-target`.
+- Rent a variety of vehicles, from compact cars to luxurious supercars.
+- Customizable rental prices and durations.
+- Secure payment system integrated with QBCore's economy.
+- Detailed vehicle condition tracking and penalties for damages.
+- Real-time vehicle availability updates.
+- Automated return system with reminders and penalties for late returns.
+- Vehicle location services to help players find their rented vehicles.
+- Multiple spawn points per rental location.
+- Full QBCore integration for compatibility and smooth performance.
+
+## Documentation
+
+For detailed installation instructions, configuration options, and usage guidelines, please refer to the [documentation](https://hyperscriptss.gitbook.io/).
+
+## Support
+
+If you encounter any issues or have any questions, feel free to reach out to us through our [Discord community](https://discord.gg/57H2HBaHB6).
+
+---
+
+Elevate your server today with the Advanced Rental System for QBCore – where convenience meets innovation.
+
+---
+
+This README provides an overview of the script, highlights its key features, and directs users to the documentation and Discord for further assistance.
