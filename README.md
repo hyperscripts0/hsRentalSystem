@@ -9,8 +9,8 @@ Welcome to the Advanced Rental System for QBCore, a comprehensive and user-frien
 Buy From Here - [Buy Now](https://hyperscripts.tebex.io/package/6379120)
 
 ## Download Links [Dependency]
-ESX - COMING SOON
-QBCORE - COMPATIBLE
+ESX - COMING SOON <br>
+QBCORE - COMPATIBLE <br>
 ([OX_LIB](https://github.com/overextended/ox_lib))
 
 ## Key Features
