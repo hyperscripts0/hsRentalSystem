@@ -9,7 +9,8 @@ Welcome to the Advanced Rental System for QBCore, a comprehensive and user-frien
 Buy From Here - [Buy Now](https://hyperscripts.tebex.io/package/6379120)
 
 ## Download Links [Dependency]
-
+ESX - COMING SOON
+QBCORE - COMPATIBLE
 ([OX_LIB](https://github.com/overextended/ox_lib))
 
 ## Key Features
@@ -37,6 +38,3 @@ If you encounter any issues or have any questions, feel free to reach out to us 
 
 Elevate your server today with the Advanced Rental System for QBCore – where convenience meets innovation.
 
----
-
-This README provides an overview of the script, highlights its key features, and directs users to the documentation and Discord for further assistance.
