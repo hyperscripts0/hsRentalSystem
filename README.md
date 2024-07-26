@@ -32,7 +32,7 @@ For detailed installation instructions, configuration options, and usage guideli
 
 ## Support
 
-If you encounter any issues or have any questions, feel free to reach out to us through our [Discord community](https://discord.gg/57H2HBaHB6).
+If you encounter any issues or have any questions, feel free to reach out to us through our [Discord Support](https://discord.gg/57H2HBaHB6).
 
 ---
 
