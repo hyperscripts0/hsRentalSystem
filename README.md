@@ -6,7 +6,7 @@
 
 Welcome to the Advanced Rental System for QBCore, a comprehensive and user-friendly vehicle rental script designed to enhance your FiveM server. This script offers a seamless rental service fully integrated with the QBCore framework, providing a realistic and immersive experience for your players.
 
-Buy From Here - [Buy Now](https://hyperscripts.tebex.io/package/6379120)
+Buy From Here - [Buy Now](https://hyperscriptss.tebex.io/package/6385384)
 
 ## Download Links [Dependency]
 ESX - COMING SOON <br>
